@@ -1,5 +1,4 @@
 # Misitio
-<!DOCTYPE html>
 <html>
     <head>
         <title>Sitio Web</title>
